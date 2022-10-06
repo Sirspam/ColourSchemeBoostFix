@@ -1,3 +1,5 @@
+# Fixed in Beat Saber 1.25.0
+
 # ColourSchemeBoostFix
 So BeatGames just sorta forgot to save the new boost colours in colours schemes, this mod fixes that.
 
